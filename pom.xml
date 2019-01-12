@@ -27,6 +27,13 @@
       <name>Test Project Site</name>
       <url>file:///tmp/maven-project-site</url>
     </site>
+        <repository>
+      <uniqueVersion>false</uniqueVersion>
+      <id>Edureka</id>
+      <name>Edureka</name>
+      <url>scp://192.168.56.101:8090/</url>
+      <layout>default</layout>
+    </repository>       
   </distributionManagement>
 
   <build>
