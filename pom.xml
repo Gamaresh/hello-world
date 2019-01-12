@@ -31,8 +31,7 @@
   </distributionManagement>
      <repositories>
          <repository>
-      <uniqueVersion>false</uniqueVersion>
-      <id>Edureka</id>
+            <id>Edureka</id>
       <name>Edureka</name>
       <url>http://192.168.56.101:8090/</url>
       <layout>default</layout>
