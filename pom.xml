@@ -29,9 +29,7 @@
     </site>
        
          <repository>
-                  <username>edureka</username>
-                  <password>edureka</password>
-                 <url>http://192.168.56.101:8090/</url>
+                                 <url>http://192.168.56.101:8090/</url>
       <layout>default</layout>
          </repository>
                
