@@ -25,7 +25,7 @@
    </distributionManagement>
    <repositories>
       <repository>
-         <id>edureka</id>
+         <id>tomcat1</id>
          <url>http://192.168.56.101:8090/</url>
          <layout>default</layout>
       </repository>
